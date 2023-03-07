@@ -1,0 +1,10 @@
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\bin\Debug\2115229_NguyenNhatLinh.exe.config
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\bin\Debug\2115229_NguyenNhatLinh.exe
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\bin\Debug\2115229_NguyenNhatLinh.pdb
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\obj\Debug\2115229_NguyenNhatLinh.csprojAssemblyReference.cache
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\obj\Debug\_2115229_NguyenNhatLinh.Properties.Resources.resources
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\obj\Debug\2115229_NguyenNhatLinh.csproj.GenerateResource.cache
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\obj\Debug\2115229_NguyenNhatLinh.csproj.CoreCompileInputs.cache
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\obj\Debug\2115229_NguyenNhatLinh.exe
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\obj\Debug\2115229_NguyenNhatLinh.pdb
+C:\Users\PC302\Source\Repos\2115229_NguyenNhatLinh\2115229_NguyenNhatLinh\obj\Debug\_2115229_NguyenNhatLinh.MainForm.resources
