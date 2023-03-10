@@ -1,0 +1,15 @@
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.exe.config
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.exe
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\bin\Debug\2115229_NguyenNhatLinh_Lab02.pdb
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csproj.AssemblyReference.cache
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\_2115229_NguyenNhatLinh_Lab02.frmBai1.resources
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\_2115229_NguyenNhatLinh_Lab02.frmChinh.resources
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\_2115229_NguyenNhatLinh_Lab02.Properties.Resources.resources
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csproj.GenerateResource.cache
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.exe
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\2115229_NguyenNhatLinh_Lab02.pdb
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\_2115229_NguyenNhatLinh_Lab02.frmBai2.resources
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\_2115229_NguyenNhatLinh_Lab02.frmBai3.resources
+C:\Users\Linh\source\repos\2115229_NguyenNhatLinh_Lab02\2115229_NguyenNhatLinh_Lab02\obj\Debug\_2115229_NguyenNhatLinh_Lab02.frmBai4.resources
