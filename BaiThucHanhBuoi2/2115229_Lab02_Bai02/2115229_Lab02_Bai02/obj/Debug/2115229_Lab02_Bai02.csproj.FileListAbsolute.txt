@@ -1,0 +1,17 @@
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\bin\Debug\2115229_Lab02_Bai02.exe.config
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\bin\Debug\2115229_Lab02_Bai02.exe
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\bin\Debug\2115229_Lab02_Bai02.pdb
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.csprojAssemblyReference.cache
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\_2115229_Lab02_Bai02.Properties.Resources.resources
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.csproj.GenerateResource.cache
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.csproj.CoreCompileInputs.cache
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.exe
+C:\Users\PC303\source\repos\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.pdb
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.csprojAssemblyReference.cache
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\_2115229_Lab02_Bai02.frmGiaoVien.resources
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\_2115229_Lab02_Bai02.frmTBGiaoVien.resources
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\_2115229_Lab02_Bai02.Properties.Resources.resources
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.csproj.GenerateResource.cache
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.csproj.CoreCompileInputs.cache
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.exe
+C:\Users\PC303\source\repos\BaiThucHanhBuoi2\2115229_Lab02_Bai02\2115229_Lab02_Bai02\obj\Debug\2115229_Lab02_Bai02.pdb
