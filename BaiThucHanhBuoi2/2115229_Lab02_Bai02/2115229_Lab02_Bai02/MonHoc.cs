@@ -15,7 +15,10 @@ namespace _2115229_Lab02_Bai02
         {
 
         }
-
+        public MonHoc(string ten)
+        {
+            this.TenMH = ten;
+        }
         public MonHoc (int id, string ten, int tc)
         {
             this.Id = id;

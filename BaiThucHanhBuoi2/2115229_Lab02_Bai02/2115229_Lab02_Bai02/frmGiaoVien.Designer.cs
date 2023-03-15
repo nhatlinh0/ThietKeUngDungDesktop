@@ -56,6 +56,8 @@
             this.label11 = new System.Windows.Forms.Label();
             this.linklbLienHe = new System.Windows.Forms.LinkLabel();
             this.mtxtSoDT = new System.Windows.Forms.MaskedTextBox();
+            this.btnThem = new System.Windows.Forms.Button();
+            this.btnTim = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -142,6 +144,11 @@
             // cboMaSo
             // 
             this.cboMaSo.FormattingEnabled = true;
+            this.cboMaSo.Items.AddRange(new object[] {
+            "001",
+            "002",
+            "003",
+            "004"});
             this.cboMaSo.Location = new System.Drawing.Point(104, 63);
             this.cboMaSo.Name = "cboMaSo";
             this.cboMaSo.Size = new System.Drawing.Size(136, 21);
@@ -192,6 +199,7 @@
             // 
             // chklbNgoaiNgu
             // 
+            this.chklbNgoaiNgu.CheckOnClick = true;
             this.chklbNgoaiNgu.FormattingEnabled = true;
             this.chklbNgoaiNgu.Items.AddRange(new object[] {
             "Tiếng Anh",
@@ -238,8 +246,10 @@
             "Phân tích TKHDT"});
             this.lbDanhSachMH.Location = new System.Drawing.Point(103, 261);
             this.lbDanhSachMH.Name = "lbDanhSachMH";
+            this.lbDanhSachMH.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
             this.lbDanhSachMH.Size = new System.Drawing.Size(120, 121);
             this.lbDanhSachMH.TabIndex = 9;
+            this.lbDanhSachMH.SelectedIndexChanged += new System.EventHandler(this.lbDanhSachMH_SelectedIndexChanged);
             // 
             // lbMonHocDay
             // 
@@ -257,6 +267,7 @@
             this.btnXoa.TabIndex = 12;
             this.btnXoa.Text = "<<";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
             // btnChon
             // 
@@ -266,17 +277,19 @@
             this.btnChon.TabIndex = 11;
             this.btnChon.Text = ">>";
             this.btnChon.UseVisualStyleBackColor = true;
+            this.btnChon.Click += new System.EventHandler(this.btnChon_Click);
             // 
             // btnLuu
             // 
             this.btnLuu.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLuu.ForeColor = System.Drawing.Color.MediumBlue;
-            this.btnLuu.Location = new System.Drawing.Point(104, 403);
+            this.btnLuu.Location = new System.Drawing.Point(232, 403);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(103, 35);
             this.btnLuu.TabIndex = 13;
             this.btnLuu.Text = "Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click);
             // 
             // btnCancel
             // 
@@ -284,22 +297,24 @@
             this.btnCancel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnCancel.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancel.ForeColor = System.Drawing.Color.MediumBlue;
-            this.btnCancel.Location = new System.Drawing.Point(276, 403);
+            this.btnCancel.Location = new System.Drawing.Point(350, 403);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(103, 35);
             this.btnCancel.TabIndex = 14;
             this.btnCancel.UseVisualStyleBackColor = true;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnExit
             // 
             this.btnExit.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.ForeColor = System.Drawing.Color.MediumBlue;
-            this.btnExit.Location = new System.Drawing.Point(444, 403);
+            this.btnExit.Location = new System.Drawing.Point(474, 403);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(103, 35);
             this.btnExit.TabIndex = 15;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // label11
             // 
@@ -319,6 +334,7 @@
             this.linklbLienHe.TabIndex = 16;
             this.linklbLienHe.TabStop = true;
             this.linklbLienHe.Text = "Liên hệ";
+            this.linklbLienHe.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linklbLienHe_LinkClicked);
             // 
             // mtxtSoDT
             // 
@@ -326,6 +342,32 @@
             this.mtxtSoDT.Name = "mtxtSoDT";
             this.mtxtSoDT.Size = new System.Drawing.Size(100, 20);
             this.mtxtSoDT.TabIndex = 17;
+            this.mtxtSoDT.Text = "(0633)";
+            this.mtxtSoDT.TextMaskFormat = System.Windows.Forms.MaskFormat.IncludePromptAndLiterals;
+            // 
+            // btnThem
+            // 
+            this.btnThem.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnThem.ForeColor = System.Drawing.Color.MediumBlue;
+            this.btnThem.Location = new System.Drawing.Point(118, 403);
+            this.btnThem.Name = "btnThem";
+            this.btnThem.Size = new System.Drawing.Size(103, 35);
+            this.btnThem.TabIndex = 13;
+            this.btnThem.Text = "Thêm";
+            this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            // 
+            // btnTim
+            // 
+            this.btnTim.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTim.ForeColor = System.Drawing.Color.MediumBlue;
+            this.btnTim.Location = new System.Drawing.Point(9, 403);
+            this.btnTim.Name = "btnTim";
+            this.btnTim.Size = new System.Drawing.Size(103, 35);
+            this.btnTim.TabIndex = 13;
+            this.btnTim.Text = "Tìm";
+            this.btnTim.UseVisualStyleBackColor = true;
+            this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // frmGiaoVien
             // 
@@ -337,6 +379,8 @@
             this.Controls.Add(this.label11);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.btnThem);
+            this.Controls.Add(this.btnTim);
             this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.btnChon);
             this.Controls.Add(this.btnXoa);
@@ -362,6 +406,7 @@
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "frmGiaoVien";
             this.Text = "Giáo Viên";
+            this.Load += new System.EventHandler(this.frmGiaoVien_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -396,6 +441,8 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.LinkLabel linklbLienHe;
         private System.Windows.Forms.MaskedTextBox mtxtSoDT;
+        private System.Windows.Forms.Button btnThem;
+        private System.Windows.Forms.Button btnTim;
     }
 }
 

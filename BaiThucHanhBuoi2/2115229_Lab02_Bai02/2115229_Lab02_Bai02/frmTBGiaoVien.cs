@@ -18,7 +18,17 @@ namespace _2115229_Lab02_Bai02
         }
         public void SetText (string s)
         {
-            this.lblThongBao.Text = s
+            this.lblThongBao.Text = s;
+        }
+
+        private void lblThongBao_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmTBGiaoVien_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

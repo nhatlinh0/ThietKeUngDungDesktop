@@ -34,11 +34,13 @@
             // lblThongBao
             // 
             this.lblThongBao.AutoSize = true;
+            this.lblThongBao.ForeColor = System.Drawing.Color.Fuchsia;
             this.lblThongBao.Location = new System.Drawing.Point(129, 89);
             this.lblThongBao.Name = "lblThongBao";
             this.lblThongBao.Size = new System.Drawing.Size(35, 13);
             this.lblThongBao.TabIndex = 0;
             this.lblThongBao.Text = "label1";
+            this.lblThongBao.Click += new System.EventHandler(this.lblThongBao_Click);
             // 
             // frmTBGiaoVien
             // 
@@ -48,6 +50,7 @@
             this.Controls.Add(this.lblThongBao);
             this.Name = "frmTBGiaoVien";
             this.Text = "frmTBGiaoVien";
+            this.Load += new System.EventHandler(this.frmTBGiaoVien_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
