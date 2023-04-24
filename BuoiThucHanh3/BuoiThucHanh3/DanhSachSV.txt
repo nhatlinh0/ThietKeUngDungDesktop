@@ -1,0 +1,4 @@
+﻿2115277,Nguyễn Trung Tín,10/02/2003,376 Nguyên Tử Lực P.8,CTK45B,123.jpg,Nam,Mạng truyền thông,
+2115232,Nguyễn Đức Đại Lộc,15/02/2003,265/13 Bùi Thị Xuân-P.2,CTK45B,234.jpg,Nam,Công nghệ phần mềm,
+2112998,Lâm Thị Yến Linh,15/08/2003,59 Trần Khánh Dư P8,CTK45B,345.jpg,Nữ,Trí tuệ nhân tạo,
+2115207,Đinh Trọng Hiếu,23/05/2003,13 Trần Khánh Dư P8,CTK45B,456.jpg,Nam,Hệ thống thông tin,
