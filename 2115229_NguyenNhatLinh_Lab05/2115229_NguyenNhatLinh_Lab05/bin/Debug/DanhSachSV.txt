@@ -1,0 +1,3 @@
+﻿2115229,Nam,Nguyễn Nhật,Linh,21/04/2003,CTK45,029391293,0839711858,1 Phù Đổng,Mạng máy tính*Lập trình mạng
+2115243,Nữ,Lại Phú Khôi,Nguyên,09/12/2004,CTK44,213123123,0481818642,2 Nguyễn Công Trứ,Hệ điều hành*Đồ án cơ sở*Lập trình CSDL
+2111875,Nam,Lê Viết Đăng,Quang,29/04/2002,CTK44,213123124,0817591542,3 Đinh Tiên Hoàng,An toàn và bảo mật hệ thống
