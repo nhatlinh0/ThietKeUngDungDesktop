@@ -1,0 +1,14 @@
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\bin\Debug\BaiTapNhom14_CTK45B.exe.config
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\bin\Debug\BaiTapNhom14_CTK45B.exe
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\bin\Debug\BaiTapNhom14_CTK45B.pdb
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.csproj.AssemblyReference.cache
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.csproj.SuggestedBindingRedirects.cache
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.Properties.Resources.resources
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.csproj.GenerateResource.cache
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.csproj.CoreCompileInputs.cache
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.exe
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.pdb
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.FormRoom.resources
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.FormHoaDon.resources
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.FormThietLapPhong.resources
+C:\Users\Linh\source\repos\BaiTapNhom14_CTK45B\BaiTapNhom14_CTK45B\obj\Debug\BaiTapNhom14_CTK45B.FormBaoCao.resources
